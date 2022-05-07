@@ -1,0 +1,46 @@
+Information: Updating design information... (UID-85)
+ 
+****************************************
+Report : timing
+        -path full
+        -delay max
+        -max_paths 1
+Design : Add32
+Version: Q-2019.12-SP5-2
+Date   : Sun Mar 20 00:13:26 2022
+****************************************
+
+Operating Conditions: tt_1v8_25c   Library: tt_1v8_25c
+Wire Load Model Mode: top
+
+  Startpoint: B[9] (input port)
+  Endpoint: result[17] (output port)
+  Path Group: default
+  Path Type: max
+
+  Point                                    Incr       Path
+  -----------------------------------------------------------
+  input external delay                     0.00       0.00 r
+  B[9] (in)                                0.00       0.00 r
+  U221/Y (XOR2X4)                          0.12       0.12 f
+  U220/Y (NOR2X4)                          0.06       0.18 r
+  U217/Y (OAI21X4)                         0.04       0.22 f
+  U210/Y (OAI2BB1X4)                       0.11       0.33 f
+  U396/Y (AOI21X4)                         0.09       0.42 r
+  U276/Y (NAND3X2)                         0.08       0.51 f
+  U516/Y (AOI21X1)                         0.12       0.62 r
+  U518/Y (XOR2X1)                          0.15       0.77 r
+  result[17] (out)                         0.00       0.77 r
+  data arrival time                                   0.77
+
+  max_delay                                0.77       0.77
+  output external delay                    0.00       0.77
+  data required time                                  0.77
+  -----------------------------------------------------------
+  data required time                                  0.77
+  data arrival time                                  -0.77
+  -----------------------------------------------------------
+  slack (MET)                                         0.00
+
+
+1
