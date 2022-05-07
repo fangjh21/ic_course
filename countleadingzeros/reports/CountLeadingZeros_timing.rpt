@@ -1,0 +1,46 @@
+Information: Updating design information... (UID-85)
+ 
+****************************************
+Report : timing
+        -path full
+        -delay max
+        -max_paths 1
+Design : CountLeadingZeros
+Version: Q-2019.12-SP5-2
+Date   : Sun Apr 17 10:03:43 2022
+****************************************
+
+Operating Conditions: tt_1v8_25c   Library: tt_1v8_25c
+Wire Load Model Mode: top
+
+  Startpoint: vec[18] (input port)
+  Endpoint: count_result[0]
+            (output port)
+  Path Group: default
+  Path Type: max
+
+  Point                                    Incr       Path
+  -----------------------------------------------------------
+  input external delay                     0.00       0.00 r
+  vec[18] (in)                             0.00       0.00 r
+  U66/Y (INVX3)                            0.02       0.02 f
+  U154/Y (NAND2X1)                         0.04       0.06 r
+  U155/Y (AOI21X1)                         0.05       0.11 f
+  U80/Y (NAND2BX2)                         0.10       0.21 f
+  U85/Y (NAND3X1)                          0.05       0.26 r
+  U83/Y (OAI211X1)                         0.06       0.32 f
+  U117/Y (NOR3X1)                          0.09       0.41 r
+  count_result[0] (out)                    0.00       0.41 r
+  data arrival time                                   0.41
+
+  max_delay                                0.41       0.41
+  output external delay                    0.00       0.41
+  data required time                                  0.41
+  -----------------------------------------------------------
+  data required time                                  0.41
+  data arrival time                                  -0.41
+  -----------------------------------------------------------
+  slack (MET)                                         0.00
+
+
+1
