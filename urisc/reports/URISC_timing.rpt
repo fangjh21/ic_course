@@ -1,0 +1,105 @@
+ 
+****************************************
+Report : timing
+        -path full
+        -delay max
+        -max_paths 1
+Design : URISC
+Version: Q-2019.12-SP5-2
+Date   : Thu Apr 28 20:20:48 2022
+****************************************
+
+Operating Conditions: tt_1v8_25c   Library: tt_1v8_25c
+Wire Load Model Mode: top
+
+  Startpoint: current_state_reg[1]
+              (rising edge-triggered flip-flop clocked by clk_PH1)
+  Endpoint: Z_reg_reg (rising edge-triggered flip-flop clocked by clk_PH1)
+  Path Group: clk_PH1
+  Path Type: max
+
+  Point                                    Incr       Path
+  -----------------------------------------------------------
+  clock clk_PH1 (rise edge)                0.00       0.00
+  clock network delay (ideal)              0.00       0.00
+  current_state_reg[1]/CK (DFFSHQX1)       0.00       0.00 r
+  current_state_reg[1]/Q (DFFSHQX1)        0.33       0.33 r
+  U147/Y (INVX1)                           0.10       0.42 f
+  U200/Y (NOR3X1)                          0.27       0.70 r
+  U141/Y (AOI211X1)                        0.17       0.87 f
+  U140/Y (INVX1)                           0.18       1.05 r
+  U143/Y (AOI22XL)                         0.11       1.16 f
+  U231/Y (AOI2BB1X1)                       0.18       1.34 f
+  intadd_0/U7/CO (ADDFXL)                  0.68       2.02 f
+  intadd_0/U6/CO (ADDFXL)                  0.25       2.27 f
+  intadd_0/U5/CO (ADDFXL)                  0.25       2.51 f
+  intadd_0/U4/CO (ADDFXL)                  0.25       2.76 f
+  intadd_0/U3/CO (ADDFXL)                  0.25       3.00 f
+  intadd_0/U2/CO (ADDFXL)                  0.24       3.24 f
+  U211/Y (XOR2X1)                          0.18       3.42 r
+  U212/Y (XOR2X1)                          0.17       3.59 f
+  U189/Y (NAND3XL)                         0.07       3.66 r
+  U186/Y (OAI31XL)                         0.06       3.72 f
+  Z_reg_reg/D (DFFRHQX1)                   0.00       3.72 f
+  data arrival time                                   3.72
+
+  clock clk_PH1 (rise edge)                4.00       4.00
+  clock network delay (ideal)              0.00       4.00
+  clock uncertainty                        0.00       4.00
+  Z_reg_reg/CK (DFFRHQX1)                  0.00       4.00 r
+  library setup time                      -0.21       3.79
+  data required time                                  3.79
+  -----------------------------------------------------------
+  data required time                                  3.79
+  data arrival time                                  -3.72
+  -----------------------------------------------------------
+  slack (MET)                                         0.06
+
+
+1
+ 
+****************************************
+Report : timing
+        -path full
+        -delay min
+        -max_paths 1
+Design : URISC
+Version: Q-2019.12-SP5-2
+Date   : Thu Apr 28 20:20:48 2022
+****************************************
+
+Operating Conditions: tt_1v8_25c   Library: tt_1v8_25c
+Wire Load Model Mode: top
+
+  Startpoint: R_reg_reg[1]
+              (rising edge-triggered flip-flop clocked by clk_PH1)
+  Endpoint: R_reg_reg[1]
+            (rising edge-triggered flip-flop clocked by clk_PH1)
+  Path Group: clk_PH1
+  Path Type: min
+
+  Point                                    Incr       Path
+  -----------------------------------------------------------
+  clock clk_PH1 (rise edge)                0.00       0.00
+  clock network delay (ideal)              0.00       0.00
+  R_reg_reg[1]/CK (DFFRHQX1)               0.00       0.00 r
+  R_reg_reg[1]/Q (DFFRHQX1)                0.21       0.21 f
+  U183/Y (NAND2XL)                         0.05       0.26 r
+  U182/Y (OAI2BB1XL)                       0.04       0.30 f
+  R_reg_reg[1]/D (DFFRHQX1)                0.00       0.30 f
+  data arrival time                                   0.30
+
+  clock clk_PH1 (rise edge)                0.00       0.00
+  clock network delay (ideal)              0.00       0.00
+  clock uncertainty                        0.00       0.00
+  R_reg_reg[1]/CK (DFFRHQX1)               0.00       0.00 r
+  library hold time                       -0.06      -0.06
+  data required time                                 -0.06
+  -----------------------------------------------------------
+  data required time                                 -0.06
+  data arrival time                                  -0.30
+  -----------------------------------------------------------
+  slack (MET)                                         0.35
+
+
+1
