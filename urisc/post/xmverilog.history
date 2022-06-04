@@ -1,0 +1,5 @@
+s1(03Jun2022:22:51:27):  ncverilog +access+wrc +gui tb_TOP_URISC.v 
+s2(03Jun2022:22:53:50):  ncverilog +access+wrc +gui tb_TOP_URISC.v 
+s3(03Jun2022:22:54:20):  ncverilog +access+wrc +gui tb_TOP_URISC.v 
+s4(03Jun2022:22:54:59):  ncverilog +access+wrc +gui tb_TOP_URISC.v 
+s5(03Jun2022:22:56:26):  ncverilog +access+wrc +gui tb_TOP_URISC.v 

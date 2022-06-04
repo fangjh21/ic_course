@@ -1,0 +1,117 @@
+======================================================================
+
+Annotating SDF timing data:
+  Compiled SDF file:     URISC.sdf.X
+  Log file:              sdf.log
+  Backannotation scope:  tb_TOP_URISC.ursic
+  Configuration file:    
+  MTM control:           
+  Scale factors:         
+  Scale type:            
+
+Time units: 1ns
+
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (posedge S0) Y) of instance tb_TOP_URISC.ursic.U307 of module MXI2X1 <./URISC.sdf, line 580>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (negedge S0) Y) of instance tb_TOP_URISC.ursic.U307 of module MXI2X1 <./URISC.sdf, line 581>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (posedge S0) Y) of instance tb_TOP_URISC.ursic.U306 of module MX2X1 <./URISC.sdf, line 594>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (negedge S0) Y) of instance tb_TOP_URISC.ursic.U306 of module MX2X1 <./URISC.sdf, line 595>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (posedge S0) Y) of instance tb_TOP_URISC.ursic.U305 of module MX2X1 <./URISC.sdf, line 608>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (negedge S0) Y) of instance tb_TOP_URISC.ursic.U305 of module MX2X1 <./URISC.sdf, line 609>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (posedge S0) Y) of instance tb_TOP_URISC.ursic.U304 of module MX2X1 <./URISC.sdf, line 622>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (negedge S0) Y) of instance tb_TOP_URISC.ursic.U304 of module MX2X1 <./URISC.sdf, line 623>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (posedge S0) Y) of instance tb_TOP_URISC.ursic.U303 of module MX2X1 <./URISC.sdf, line 636>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (negedge S0) Y) of instance tb_TOP_URISC.ursic.U303 of module MX2X1 <./URISC.sdf, line 637>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (posedge S0) Y) of instance tb_TOP_URISC.ursic.U302 of module MX2X1 <./URISC.sdf, line 650>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (negedge S0) Y) of instance tb_TOP_URISC.ursic.U302 of module MX2X1 <./URISC.sdf, line 651>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (posedge S0) Y) of instance tb_TOP_URISC.ursic.U301 of module MX2X1 <./URISC.sdf, line 664>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (negedge S0) Y) of instance tb_TOP_URISC.ursic.U301 of module MX2X1 <./URISC.sdf, line 665>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (posedge S0) Y) of instance tb_TOP_URISC.ursic.U300 of module MX2X1 <./URISC.sdf, line 678>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (negedge S0) Y) of instance tb_TOP_URISC.ursic.U300 of module MX2X1 <./URISC.sdf, line 679>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (posedge S0) Y) of instance tb_TOP_URISC.ursic.U282 of module MX2X1 <./URISC.sdf, line 896>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (negedge S0) Y) of instance tb_TOP_URISC.ursic.U282 of module MX2X1 <./URISC.sdf, line 897>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (posedge S0) Y) of instance tb_TOP_URISC.ursic.U280 of module MX2X1 <./URISC.sdf, line 920>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (negedge S0) Y) of instance tb_TOP_URISC.ursic.U280 of module MX2X1 <./URISC.sdf, line 921>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (posedge S0) Y) of instance tb_TOP_URISC.ursic.U278 of module MX2X1 <./URISC.sdf, line 944>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (negedge S0) Y) of instance tb_TOP_URISC.ursic.U278 of module MX2X1 <./URISC.sdf, line 945>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (posedge S0) Y) of instance tb_TOP_URISC.ursic.U275 of module MX2X1 <./URISC.sdf, line 978>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (negedge S0) Y) of instance tb_TOP_URISC.ursic.U275 of module MX2X1 <./URISC.sdf, line 979>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (posedge S0) Y) of instance tb_TOP_URISC.ursic.U273 of module MX2X1 <./URISC.sdf, line 1002>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (negedge S0) Y) of instance tb_TOP_URISC.ursic.U273 of module MX2X1 <./URISC.sdf, line 1003>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (posedge A) Y) of instance tb_TOP_URISC.ursic.U267 of module XNOR2X1 <./URISC.sdf, line 1064>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (negedge A) Y) of instance tb_TOP_URISC.ursic.U267 of module XNOR2X1 <./URISC.sdf, line 1065>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (posedge B) Y) of instance tb_TOP_URISC.ursic.U267 of module XNOR2X1 <./URISC.sdf, line 1068>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (negedge B) Y) of instance tb_TOP_URISC.ursic.U267 of module XNOR2X1 <./URISC.sdf, line 1069>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (posedge S0) Y) of instance tb_TOP_URISC.ursic.U266 of module MX2X1 <./URISC.sdf, line 1082>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (negedge S0) Y) of instance tb_TOP_URISC.ursic.U266 of module MX2X1 <./URISC.sdf, line 1083>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (posedge S0) Y) of instance tb_TOP_URISC.ursic.U262 of module MXI2X1 <./URISC.sdf, line 1126>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (negedge S0) Y) of instance tb_TOP_URISC.ursic.U262 of module MXI2X1 <./URISC.sdf, line 1127>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (posedge S0) Y) of instance tb_TOP_URISC.ursic.U208 of module MX2X1 <./URISC.sdf, line 1689>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (negedge S0) Y) of instance tb_TOP_URISC.ursic.U208 of module MX2X1 <./URISC.sdf, line 1690>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (posedge A) Y) of instance tb_TOP_URISC.ursic.U200 of module XNOR2X1 <./URISC.sdf, line 1772>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (negedge A) Y) of instance tb_TOP_URISC.ursic.U200 of module XNOR2X1 <./URISC.sdf, line 1773>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (posedge B) Y) of instance tb_TOP_URISC.ursic.U200 of module XNOR2X1 <./URISC.sdf, line 1776>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (negedge B) Y) of instance tb_TOP_URISC.ursic.U200 of module XNOR2X1 <./URISC.sdf, line 1777>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (posedge A) Y) of instance tb_TOP_URISC.ursic.U198 of module XOR2X1 <./URISC.sdf, line 1798>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (negedge A) Y) of instance tb_TOP_URISC.ursic.U198 of module XOR2X1 <./URISC.sdf, line 1799>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (posedge B) Y) of instance tb_TOP_URISC.ursic.U198 of module XOR2X1 <./URISC.sdf, line 1802>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (negedge B) Y) of instance tb_TOP_URISC.ursic.U198 of module XOR2X1 <./URISC.sdf, line 1803>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (posedge A) Y) of instance tb_TOP_URISC.ursic.U163 of module XOR2X1 <./URISC.sdf, line 2143>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (negedge A) Y) of instance tb_TOP_URISC.ursic.U163 of module XOR2X1 <./URISC.sdf, line 2144>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (posedge B) Y) of instance tb_TOP_URISC.ursic.U163 of module XOR2X1 <./URISC.sdf, line 2147>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (negedge B) Y) of instance tb_TOP_URISC.ursic.U163 of module XOR2X1 <./URISC.sdf, line 2148>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (posedge A) Y) of instance tb_TOP_URISC.ursic.U162 of module XNOR2X1 <./URISC.sdf, line 2159>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (negedge A) Y) of instance tb_TOP_URISC.ursic.U162 of module XNOR2X1 <./URISC.sdf, line 2160>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (posedge B) Y) of instance tb_TOP_URISC.ursic.U162 of module XNOR2X1 <./URISC.sdf, line 2163>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (negedge B) Y) of instance tb_TOP_URISC.ursic.U162 of module XNOR2X1 <./URISC.sdf, line 2164>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (posedge A) Y) of instance tb_TOP_URISC.ursic.U144 of module XNOR2X1 <./URISC.sdf, line 2347>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (negedge A) Y) of instance tb_TOP_URISC.ursic.U144 of module XNOR2X1 <./URISC.sdf, line 2348>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (posedge B) Y) of instance tb_TOP_URISC.ursic.U144 of module XNOR2X1 <./URISC.sdf, line 2351>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (negedge B) Y) of instance tb_TOP_URISC.ursic.U144 of module XNOR2X1 <./URISC.sdf, line 2352>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (posedge A) Y) of instance tb_TOP_URISC.ursic.U143 of module XNOR2X1 <./URISC.sdf, line 2363>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (negedge A) Y) of instance tb_TOP_URISC.ursic.U143 of module XNOR2X1 <./URISC.sdf, line 2364>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (posedge B) Y) of instance tb_TOP_URISC.ursic.U143 of module XNOR2X1 <./URISC.sdf, line 2367>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (negedge B) Y) of instance tb_TOP_URISC.ursic.U143 of module XNOR2X1 <./URISC.sdf, line 2368>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (posedge A) Y) of instance tb_TOP_URISC.ursic.U142 of module XNOR2X1 <./URISC.sdf, line 2379>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (negedge A) Y) of instance tb_TOP_URISC.ursic.U142 of module XNOR2X1 <./URISC.sdf, line 2380>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (posedge B) Y) of instance tb_TOP_URISC.ursic.U142 of module XNOR2X1 <./URISC.sdf, line 2383>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (negedge B) Y) of instance tb_TOP_URISC.ursic.U142 of module XNOR2X1 <./URISC.sdf, line 2384>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (posedge S0) Y) of instance tb_TOP_URISC.ursic.U128 of module MX2X1 <./URISC.sdf, line 2525>.
+xmelab: *W,SDFNEP: Unable to annotate to non-existent path (IOPATH (negedge S0) Y) of instance tb_TOP_URISC.ursic.U128 of module MX2X1 <./URISC.sdf, line 2526>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.\current_state_reg[3]  of module DFFSHQX1 <./URISC.sdf, line 2564>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.\MAR_reg_reg[4]  of module DFFRHQX1 <./URISC.sdf, line 2586>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.\MAR_reg_reg[7]  of module DFFRHQX1 <./URISC.sdf, line 2608>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.\MAR_reg_reg[6]  of module DFFRHQX1 <./URISC.sdf, line 2630>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.\current_state_reg[1]  of module DFFSHQX2 <./URISC.sdf, line 2652>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.\R_reg_reg[2]  of module DFFSHQX1 <./URISC.sdf, line 2674>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.\MAR_reg_reg[5]  of module DFFRHQX1 <./URISC.sdf, line 2696>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.\MAR_reg_reg[3]  of module DFFRHQX1 <./URISC.sdf, line 2718>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.\MAR_reg_reg[2]  of module DFFRHQX1 <./URISC.sdf, line 2740>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.\MAR_reg_reg[1]  of module DFFRHQX1 <./URISC.sdf, line 2762>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.\MAR_reg_reg[0]  of module DFFRHQX1 <./URISC.sdf, line 2784>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.\R_reg_reg[7]  of module DFFRHQX1 <./URISC.sdf, line 2806>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.\MDR_reg_reg[7]  of module DFFRHQX1 <./URISC.sdf, line 2828>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.\R_reg_reg[6]  of module DFFRHQX1 <./URISC.sdf, line 2850>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.\MDR_reg_reg[6]  of module DFFRHQX1 <./URISC.sdf, line 2872>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.\R_reg_reg[5]  of module DFFRHQX1 <./URISC.sdf, line 2894>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.\MDR_reg_reg[5]  of module DFFRHQX1 <./URISC.sdf, line 2916>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.\R_reg_reg[4]  of module DFFRHQX1 <./URISC.sdf, line 2938>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.\MDR_reg_reg[4]  of module DFFRHQX1 <./URISC.sdf, line 2960>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.\R_reg_reg[3]  of module DFFRHQX1 <./URISC.sdf, line 2982>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.\MDR_reg_reg[3]  of module DFFRHQX1 <./URISC.sdf, line 3004>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.\MDR_reg_reg[2]  of module DFFRHQX1 <./URISC.sdf, line 3026>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.\R_reg_reg[1]  of module DFFRHQX1 <./URISC.sdf, line 3048>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.\MDR_reg_reg[1]  of module DFFRHQX1 <./URISC.sdf, line 3070>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.\R_reg_reg[0]  of module DFFRHQX1 <./URISC.sdf, line 3092>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.\MDR_reg_reg[0]  of module DFFRHQX1 <./URISC.sdf, line 3114>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.Z_reg_reg of module DFFRHQX1 <./URISC.sdf, line 3136>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.N_reg_reg of module DFFRHQX1 <./URISC.sdf, line 3158>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.\PC_reg_reg[7]  of module DFFRHQX1 <./URISC.sdf, line 3180>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.\PC_reg_reg[6]  of module DFFRHQX1 <./URISC.sdf, line 3202>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.\PC_reg_reg[5]  of module DFFRHQX1 <./URISC.sdf, line 3224>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.\PC_reg_reg[4]  of module DFFRHQX1 <./URISC.sdf, line 3246>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.\PC_reg_reg[3]  of module DFFRHQX1 <./URISC.sdf, line 3268>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.\PC_reg_reg[2]  of module DFFRHQX1 <./URISC.sdf, line 3290>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.\PC_reg_reg[1]  of module DFFRHQX1 <./URISC.sdf, line 3312>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.\current_state_reg[2]  of module DFFSHQX4 <./URISC.sdf, line 3334>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.\current_state_reg[0]  of module DFFSHQX4 <./URISC.sdf, line 3356>.
+xmelab: *W,SDFNET: Unable to annotate to non-existent timing check (PERIOD CK (0.667)) of instance tb_TOP_URISC.ursic.\PC_reg_reg[0]  of module DFFSHQX1 <./URISC.sdf, line 3378>.

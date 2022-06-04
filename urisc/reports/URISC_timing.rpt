@@ -1,0 +1,101 @@
+ 
+****************************************
+Report : timing
+        -path full
+        -delay max
+        -max_paths 1
+Design : URISC
+Version: Q-2019.12-SP5-2
+Date   : Fri Jun  3 22:48:36 2022
+****************************************
+
+Operating Conditions: tt_1v8_25c   Library: tt_1v8_25c
+Wire Load Model Mode: top
+
+  Startpoint: current_state_reg[3]
+              (rising edge-triggered flip-flop clocked by clk_PH1)
+  Endpoint: MAR_reg_reg[7]
+            (rising edge-triggered flip-flop clocked by clk_PH1')
+  Path Group: clk_PH1
+  Path Type: max
+
+  Point                                    Incr       Path
+  -----------------------------------------------------------
+  clock clk_PH1 (rise edge)                0.00       0.00
+  clock network delay (ideal)              0.00       0.00
+  current_state_reg[3]/CK (DFFSHQX1)       0.00       0.00 r
+  current_state_reg[3]/Q (DFFSHQX1)        0.22       0.22 r
+  U130/Y (INVX2)                           0.06       0.28 f
+  U155/Y (NOR2X1)                          0.06       0.34 r
+  U270/Y (NAND2XL)                         0.09       0.44 f
+  U271/Y (OAI211X2)                        0.17       0.61 r
+  U128/Y (MX2X1)                           0.25       0.86 r
+  U216/Y (NAND2X1)                         0.07       0.93 f
+  U195/Y (OAI21X1)                         0.13       1.05 r
+  U194/Y (AOI21X2)                         0.07       1.13 f
+  U146/Y (OAI21X1)                         0.12       1.25 r
+  U144/Y (XNOR2X1)                         0.18       1.43 f
+  U161/Y (NAND2XL)                         0.06       1.50 r
+  U229/Y (OAI2BB1XL)                       0.04       1.53 f
+  MAR_reg_reg[7]/D (DFFRHQX1)              0.00       1.53 f
+  data arrival time                                   1.53
+
+  clock clk_PH1' (rise edge)               1.75       1.75
+  clock network delay (ideal)              0.00       1.75
+  clock uncertainty                        0.00       1.75
+  MAR_reg_reg[7]/CK (DFFRHQX1)             0.00       1.75 r
+  library setup time                      -0.21       1.53
+  data required time                                  1.53
+  -----------------------------------------------------------
+  data required time                                  1.53
+  data arrival time                                  -1.53
+  -----------------------------------------------------------
+  slack (MET)                                         0.00
+
+
+1
+ 
+****************************************
+Report : timing
+        -path full
+        -delay min
+        -max_paths 1
+Design : URISC
+Version: Q-2019.12-SP5-2
+Date   : Fri Jun  3 22:48:36 2022
+****************************************
+
+Operating Conditions: tt_1v8_25c   Library: tt_1v8_25c
+Wire Load Model Mode: top
+
+  Startpoint: DATA_IN[0] (input port clocked by clk_PH1)
+  Endpoint: MDR_reg_reg[0]
+            (rising edge-triggered flip-flop clocked by clk_PH1)
+  Path Group: clk_PH1
+  Path Type: min
+
+  Point                                    Incr       Path
+  -----------------------------------------------------------
+  clock clk_PH1 (rise edge)                0.00       0.00
+  clock network delay (ideal)              0.00       0.00
+  input external delay                     0.00       0.00 r
+  DATA_IN[0] (in)                          0.00       0.00 r
+  U289/Y (AOI222XL)                        0.05       0.05 f
+  U180/Y (INVX1)                           0.04       0.10 r
+  MDR_reg_reg[0]/D (DFFRHQX1)              0.00       0.10 r
+  data arrival time                                   0.10
+
+  clock clk_PH1 (rise edge)                0.00       0.00
+  clock network delay (ideal)              0.00       0.00
+  clock uncertainty                        0.00       0.00
+  MDR_reg_reg[0]/CK (DFFRHQX1)             0.00       0.00 r
+  library hold time                       -0.06      -0.06
+  data required time                                 -0.06
+  -----------------------------------------------------------
+  data required time                                 -0.06
+  data arrival time                                  -0.10
+  -----------------------------------------------------------
+  slack (MET)                                         0.16
+
+
+1
